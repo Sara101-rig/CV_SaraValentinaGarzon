@@ -1,31 +1,38 @@
-# CV_Example
+# CV_SaraValentinaGarzonRojas
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Sara Valentina Garzon Rojas
+**Profesión:** Analisis y desarrolladora de software 
 
-## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+## 📞 Contacto 
+- **Email:** saravalentinagarzonrojas840@gmail.com
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025- Actualidad)_
+- HTML
+- Pyton
+- programación
+- php
+- Hadware
+- Sofware
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+
+
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Colegio nueva roma** _(2024)
+- Carton bachiller 
+- Tecnico en sistemas
+### Sena (2025 actualidad)
+Anlista y desarrolladora de software 
+
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- Trabajo en equipo 
+- Comunicación 
+- empatia
 
----
 
 ## 🎨 Formatos y Fuentes Disponibles
 
