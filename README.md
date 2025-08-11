@@ -5,7 +5,7 @@
 **Profesión:** Analisis y desarrolladora de software 
 
 ## 📞 Contacto 
-- **Email:** saravalentinagarzonrojas840@gmail.com
+- **Email:** (saravalentinagarzonrojas840@gmail.com) (mailto:saravalentinagarzonrojas840@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
